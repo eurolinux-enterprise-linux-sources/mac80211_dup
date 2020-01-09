@@ -1,0 +1,4 @@
+%defattr(644,root,root,755)
+/lib/modules/%2-%1
+/etc/depmod.d/mac80211_dup.conf
+/usr/share/doc/kmod-mac80211_dup/greylist.txt
